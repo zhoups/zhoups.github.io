@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>飘逝</title>
+    <link>https://zhoups.github.io/</link>
+    <description>Recent content on 飘逝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Dec 2018 14:58:29 +0800</lastBuildDate>
+    <atom:link href="https://zhoups.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>technology_stack</title>
+      <link>https://zhoups.github.io/technology_stack/</link>
+      <pubDate>Tue, 04 Dec 2018 14:58:29 +0800</pubDate>
+      
+      <guid>https://zhoups.github.io/technology_stack/</guid>
+      <description>
+
+&lt;h3 id=&#34;数据库:8b1cb46277b8a0f25061b4105d0a53e4&#34;&gt;数据库&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;MySQL, PostgreSQL, Redis, MongoDB, Neo4j&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;编程语言:8b1cb46277b8a0f25061b4105d0a53e4&#34;&gt;编程语言&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Python, JavaScript, Golang, Node.js&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;web:8b1cb46277b8a0f25061b4105d0a53e4&#34;&gt;Web&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Vue jQuery&lt;/li&gt;
+&lt;li&gt;Django, DRF,  Flask, Tornado, Express, Koa2&lt;/li&gt;
+&lt;li&gt;RESTful, RPC&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;ops:8b1cb46277b8a0f25061b4105d0a53e4&#34;&gt;Ops&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ansible, Nginx, Docker,Saltstack&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;机器学习:8b1cb46277b8a0f25061b4105d0a53e4&#34;&gt;机器学习&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Scikit-Learn, TensorFlow&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;兴趣:8b1cb46277b8a0f25061b4105d0a53e4&#34;&gt;兴趣&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Web开发, 机器学习, 系统设计, 数据结构与算法, 函数式编程&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
